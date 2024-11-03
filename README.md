@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbihaRiaz1703
 - 👀 I’m interested in my work.
-- 🌱 I’m currently learning Flutter developing.
+- 🌱 I’m currently understanding the world of technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her.
