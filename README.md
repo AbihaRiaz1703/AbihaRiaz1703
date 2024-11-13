@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I update regularly. 
+- ⚡ Fun fact: I update regularly.
+- :) I would like to get feedback and suggestions because of my hunger of knowledge.
 
 <!---
 AbihaRiaz1703/AbihaRiaz1703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
