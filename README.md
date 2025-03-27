@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AbihaRiaz1703
 - 👀 I’m interested in my work.
 - 🌱 I’m currently understanding the world of technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me abihariaz431@gmail.com
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I update regularly.
 - :) I would like to get feedback and suggestions because of my hunger of knowledge.
