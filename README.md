@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbihaRiaz1703
-- 👀 I’m interested in my work.
-- 🌱 I’m currently understanding the world of technology
+- 👀 I’m devoured by the world of dev.
+- 🌱 I’m currently building beautiful ui designs using flutter.
 - 📫 How to reach me abihariaz431@gmail.com
 - 😄 Pronouns: She/Her.
 
